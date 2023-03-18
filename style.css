@@ -1,0 +1,39 @@
+* {
+  background-color: #e8bd0d;
+}
+#marquee {
+  margin: auto;
+  font-size: 25px;
+  color: white;
+  background-color: black;
+}
+#heading {
+  font-size: 75px;
+  text-align: center;
+  color: #5a20cb;
+}
+.timeBtn {
+  width: 80px;
+  height: 40px;
+  border: 4px solid #3944f7;
+  border-radius: 12px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  font-family: consolas, monospace;
+}
+#timeDisplay {
+  background-color: black;
+  font-size: 75px;
+  color: coral;
+  font-family: consolas, monospace;
+}
+#swContainer {
+  margin: auto;
+  width: max-content;
+  padding: 5%;
+  text-align: center;
+  border: 6px solid #3944f7;
+  border-radius: 25px;
+  background-color: black;
+}
